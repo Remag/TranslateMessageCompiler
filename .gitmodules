@@ -1,0 +1,3 @@
+[submodule "ReversedLibrary"]
+	path = ReversedLibrary
+	url = https://github.com/Remag/ReversedLibrary.git
